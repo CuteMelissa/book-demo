@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CuteMelissa/book-demo/issues"
   },
-  "homepage": "https://github.com/CuteMelissa/book-demo#readme"
+  "homepage": "https://github.com/CuteMelissa/book-demo#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
